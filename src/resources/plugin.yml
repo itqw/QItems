@@ -1,0 +1,4 @@
+main: quietw.items.QItems
+version: 1.0
+name: QItems
+api-version: 1.17
